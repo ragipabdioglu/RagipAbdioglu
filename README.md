@@ -1,70 +1,50 @@
-Merhaba! Ben Ragıp 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/animated-intro.gif" width="30">  **Hi there! I'm Ragıp** 👋
+</p>
 
-  
+---
 
+<p align="center">
+  <h3>🚀 Junior Full Stack Developer | Building Web Solutions with Python & JavaScript 🚀</h3>
+</p>
 
+---
 
-  🚀 Junior Full Stack Developer | Python & JavaScript ile Web Çözümleri Geliştiriyorum 🚀
+### ✨ About Me
 
+I'm a highly motivated **Junior Full Stack Developer** focused on building dynamic, scalable, and user-centric web applications. My skill set spans modern front-end design to robust back-end development, specializing in both **Node.js** and **Django/Python** ecosystems.
 
+-   🌍 **Location:** Based in **Sakarya, Türkiye**
+-   💼 **Job Opportunities:** Open to **remote and on-site** full-time opportunities across Türkiye and globally.
+-   💡 **Focus:** Turning complex requirements into clean, efficient, and well-documented code.
 
-✨ Hakkımda
-Ben, dinamik, ölçeklenebilir ve kullanıcı odaklı web uygulamaları geliştirmeye odaklanmış, motivasyonu yüksek bir Junior Full Stack Developer'ım. Teknoloji yığınım, modern ön yüz tasarımından sağlam arka yüz geliştirmeye kadar uzanıyor ve özellikle Node.js ile Django/Python ekosistemlerinde uzmanlaşıyorum.
+---
 
-🌍 Konum: Sakarya, Türkiye  
-💼 İş Fırsatları: Türkiye ve dünya genelinde uzaktan veya yerinde tam zamanlı iş fırsatlarına açığım.  
-💡 Odak Noktam: Karmaşık gereksinimleri temiz, verimli ve iyi belgelenmiş koda dönüştürmek.  
-🌟 Eğlenceli Bilgi: Boş zamanlarımda yeni teknoloji trendlerini keşfetmeyi ve açık kaynak projelere katkıda bulunmayı seviyorum.
+### 🛠️ My Toolbox
 
+#### Frontend 🎨
+| Core | Styling |
+| :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
-🛠️ Teknoloji Yığınım
-Frontend 🎨
+#### Backend & Databases 💾
+| Languages/Frameworks | Backend as a Service (BaaS) |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
 
+#### DevOps & Tools ⚙️
+| Version Control | Deployment/Containers (Used in previous projects) |
+| :--- | :--- |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | Docker, AWS |
 
+---
 
-Temel Teknolojiler
-Stil
+### 🌐 Let's Connect!
 
+[![Website](https://img.shields.io/badge/Website-ragipabdioglu.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ragipabdioglu.site)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragipabdioglu/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rabdioglu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/)
+[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL@EXAMPLE.COM-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@EXAMPLE.COM)
 
-
-  
-
-
-
-Backend & Veritabanları 💾
-
-
-
-Diller/Çerçeveler
-Backend as a Service (BaaS)
-
-
-
-  
- 
-
-
-DevOps & Araçlar ⚙️
-
-
-
-Versiyon Kontrol
-Dağıtım/Konteynerler
-
-
-
- 
- 
-
-
-
-🚀 Öne Çıkan Projeler
-
-E-Ticaret Platformu: Django ve Tailwind CSS ile geliştirilmiş, kullanıcı dostu bir e-ticaret sitesi. Ödeme entegrasyonları ve dinamik ürün yönetimi içerir.  
-Görev Yönetim Uygulaması: Node.js ve Firebase kullanılarak oluşturulmuş, gerçek zamanlı bir görev yönetim uygulaması. Kullanıcılar görev ekleyip düzenleyebilir.
-
-
-🌐 Bağlantı Kuralım!
-
-
-
+---
