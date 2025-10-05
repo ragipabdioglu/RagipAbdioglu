@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/animated-intro.gif" width="100">  **Hi there! I'm Ragıp** 👋
+<p align="center" style="font-size: 50px;">
+  **Hi there! I'm Ragıp** 👋
 </p>
 
 ---
